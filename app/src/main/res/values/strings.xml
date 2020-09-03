@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WhatsappClone</string>
+    <string name="login_header_text">Welcome to Whatsapp</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="verfiy_number">Verify %s</string>
+    <string name="waiting_text">Waiting to automatically detect the sms sent to \n %s Wrong Number?</string>
+    <string name="user_details">user_details</string>
+    <string name="user_name">name</string>
+    <string name="user_image_url">image_url</string>
+    <string name="user_thumbed_image_url">user_thumbed_image_url</string>
+    <string name="auth_uid">user_uid</string>
+    <string name="is_logged">is_logged</string>
+    <string name="shared_preference">shared_preference_user_details</string>
+    <string name="mobile_no">phone_no</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="like_message">Like Message</string>
+
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+</resources>
